@@ -5,10 +5,34 @@
 a{
     color:white
 }
+.container-fluid{
+    padding-right:0px;
+}
+.search-icon{
+    color:white;
+    font-size: 20px;
+    /* line-height: 40px; */
+    /* word-spacing: 30px; */
+}
+/* .bar{
+    color: white;
+} */
+/* .fa .fa-bars{
+    color: white;
+} */
 .img{
     height: 50px;
     width: 200px;
     opacity: 0.8;
     z-index: -1;
 
+}
+.navbar-brand{
+    padding: 0;
+    margin: 0;
+    /* padding-left: 30px; */
+}
+.navbar-brand img{
+    height:50px;
+    
 }
