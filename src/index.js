@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Nav from './nav';
 import Middle from './middle';
+import Footer from './footer';
 
 import * as serviceWorker from './serviceWorker';
 
@@ -10,6 +11,8 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(<Nav />, document.getElementById('nav'));
 
 ReactDOM.render(<Middle />, document.getElementById('section'));
+ReactDOM.render(<Footer />, document.getElementById('footer'));
+
 
 
 

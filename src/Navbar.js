@@ -31,7 +31,7 @@ class Navbar extends Component{
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="/">Offer</a></li>
                         <li><a href="/">Trafic</a></li>
-                        <li><a href="/">Search</a></li>
+                        <li><a href="/">Search <span class="glyphicon glyphicon-search"></span></a></li>
                         <li class="dropdown">
                             <a href="/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu<span class="caret"></span></a>
                             <ul class="dropdown-menu">

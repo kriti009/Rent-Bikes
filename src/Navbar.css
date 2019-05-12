@@ -1,5 +1,6 @@
 .navbar{
     background: rgba(0, 0, 0, 0.5);
+    
 }
 a{
     color:white
@@ -9,4 +10,5 @@ a{
     width: 200px;
     opacity: 0.8;
     z-index: -1;
+
 }

@@ -1,12 +1,15 @@
 .main{
     background-image: url("https://d36g7qg6pk2cm7.cloudfront.net/assets/slider_1_o-b855c09dcc66f009fb7b1447ec611a7d5c3add6023112ecce24f867514020e0b.jpg");
     height: 400px;
+    /* background-repeat: no-repeat;
+    background-size: contain; */
+
 }
 .schedule{
     background-color: rgba(0, 0, 0, 0.7 );
     width: 70%;
     margin: auto;
-    max-width: 1100px;
+    /* max-width: 1100px; */
     padding: 20px;
     color: white;
     margin-top: 220px;
@@ -14,5 +17,5 @@
 button{
     background-color: rgb(255, 251, 0);
     color: black;
-    width: 100px
+    width: 100px;
 }

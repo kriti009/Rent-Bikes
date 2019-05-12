@@ -1,0 +1,38 @@
+.head{
+    text-align: center;
+    font-size: 35px;
+    margin: 10px 0;
+}
+.row1 {
+    /* margin: 0 5%; */
+    /* margin: 0 20px; */
+}
+.speciality{
+    /* background-color: grey; */
+    /* margin: 5px; */
+    /* width: 27%; */
+    height: 200px;
+}
+.num{
+    font-weight: 700;
+    font-size: 50px;
+    color: #fecc00;
+    vertical-align: top;  
+    padding-right:5px;  
+}
+.specs{
+    font-weight:bold;
+    vertical-align: text-top;
+    padding-top: 5%;
+    font-size: 18px; 
+    /* padding-left: 10px; */
+    /* display: inline-block; */
+    padding-left: 10px;
+    /* align-content: top; */
+    /* float: right; */
+}
+.extra p{
+    display: block;
+    font-size: 15px;
+    color: grey;
+}

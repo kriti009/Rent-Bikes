@@ -1,0 +1,21 @@
+.foot {
+    background-color: rgb(54, 54, 54);
+    margin: 0 auto;
+}
+.container .row .alpha{
+    margin: 0  auto;
+}
+.list{
+    padding:0;
+}
+.logo img{
+    padding-top: 50px;
+    width: 90%;
+    height : 90%
+}
+.company h2 , .follow h2{
+    color:white;
+}
+.list li a{
+    color: white;
+}

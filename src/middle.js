@@ -1,6 +1,10 @@
 import React , {Component} from 'react';
 // import './nav.css'
 import Paypal from './paypal';
+import Social from './social';
+import Spect from './Spect';
+import Bikes from './bikes';
+
 // import Navbar from './Navbar';
 
 class Middle extends Component{
@@ -8,6 +12,9 @@ class Middle extends Component{
         return(
             <div>
                 <Paypal></Paypal>        
+                <Social></Social>   
+                <Spect></Spect>       
+                <Bikes></Bikes>      
             </div>
         );
     }
